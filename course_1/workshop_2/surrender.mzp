@@ -1,0 +1,21 @@
+{
+    "openFiles": [
+        "set_surrender.mzn",
+        "surrender.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "../lab1/models/beanscrying.mzn",
+        "data/surrender_0.dzn",
+        "data/surrender_1.dzn",
+        "data/surrender_2.dzn",
+        "data/surrender_3.dzn",
+        "data/surrender_4.dzn",
+        "set_surrender.mzn",
+        "surrender.mzc",
+        "surrender.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

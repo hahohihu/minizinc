@@ -1,0 +1,17 @@
+{
+	"projectFiles": [
+		"models/raid.mzc.mzn",
+		"models/raid.mzn",
+		"data/raid_2.dzn",
+		"data/raid_1.dzn",
+		"data/raid_0.dzn",
+		"_mooc"
+	],
+	"openFiles": [
+		"models/raid.mzn"
+	],
+	"openTab": 0,
+	"version": 106,
+	"selectedBuiltinConfigId": "org.gecode.gecode",
+	"selectedBuiltinConfigVersion": "6.3.0"
+}

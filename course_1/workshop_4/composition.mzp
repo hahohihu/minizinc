@@ -1,0 +1,20 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "composition.mzn",
+        "compositiondual.mzn"
+    ],
+    "openTab": 1,
+    "projectFiles": [
+        "composition.mzc",
+        "composition.mzn",
+        "compositiondual.mzc",
+        "compositiondual.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.chuffed.chuffed",
+    "selectedBuiltinConfigVersion": "0.9.0",
+    "version": 105
+}

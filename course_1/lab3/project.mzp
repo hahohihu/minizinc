@@ -1,0 +1,19 @@
+{
+	"projectFiles": [
+		"models/dancetrap.mzn",
+		"models/dancetrap.mzc.mzn",
+		"data/dancetrap_3.dzn",
+		"data/dancetrap_2.dzn",
+		"data/dancetrap_0.dzn",
+		"data/dancetrap_1.dzn",
+		"data/dancetrap_4.dzn",
+		"_mooc"
+	],
+	"openFiles": [
+		"models/dancetrap.mzn"
+	],
+	"openTab": 0,
+	"version": 106,
+	"selectedBuiltinConfigId": "org.gecode.gecode",
+	"selectedBuiltinConfigVersion": "6.3.0"
+}

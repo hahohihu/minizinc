@@ -1,0 +1,24 @@
+{
+	"projectFiles": [
+		"models/royalhunt.mzn",
+		"models/royalhunt.mzc.mzn",
+		"data/royalhunt_17.dzn",
+		"data/royalhunt_16.dzn",
+		"data/royalhunt_3.dzn",
+		"data/royalhunt_2.dzn",
+		"data/royalhunt_0.dzn",
+		"data/royalhunt_1.dzn",
+		"data/royalhunt_5.dzn",
+		"data/royalhunt_4.dzn",
+		"data/royalhunt_6.dzn",
+		"data/royalhunt_7.dzn",
+		"_mooc"
+	],
+	"openFiles": [
+		"models/royalhunt.mzn"
+	],
+	"openTab": 0,
+	"version": 106,
+	"selectedBuiltinConfigId": "org.gecode.gecode",
+	"selectedBuiltinConfigVersion": "6.3.0"
+}

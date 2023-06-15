@@ -1,0 +1,20 @@
+{
+	"projectFiles": [
+		"models/elephant2.mzc.mzn",
+		"models/elephant2.mzn",
+		"data/elephant2_3.dzn",
+		"data/elephant2_2.dzn",
+		"data/elephant2_1.dzn",
+		"data/elephant2_6.dzn",
+		"data/elephant2_10.dzn",
+		"data/elephant2_9.dzn",
+		"_mooc"
+	],
+	"openFiles": [
+		"models/elephant2.mzn"
+	],
+	"openTab": 0,
+	"version": 106,
+	"selectedBuiltinConfigId": "org.gecode.gecode",
+	"selectedBuiltinConfigVersion": "6.3.0"
+}

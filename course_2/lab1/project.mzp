@@ -1,0 +1,23 @@
+{
+	"projectFiles": [
+		"models/to_jing.mzn",
+		"models/to_jing.mzc.mzn",
+		"data/to_jing_8.dzn",
+		"data/to_jing_9.dzn",
+		"data/to_jing_1.dzn",
+		"data/to_jing_0.dzn",
+		"data/to_jing_10.dzn",
+		"data/to_jing_12.dzn",
+		"data/to_jing_2.dzn",
+		"data/to_jing_3.dzn",
+		"data/to_jing_4.dzn",
+		"_mooc"
+	],
+	"openFiles": [
+		"models/to_jing.mzn"
+	],
+	"openTab": 0,
+	"version": 106,
+	"selectedBuiltinConfigId": "org.gecode.gecode",
+	"selectedBuiltinConfigVersion": "6.3.0"
+}

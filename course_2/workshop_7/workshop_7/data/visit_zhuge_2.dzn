@@ -1,0 +1,18 @@
+PERSON = {CuiZhouping, MengJian, ShiTao, LiuBiao, SimaHui, PangDegong,
+                HuangChengyan, HuangYueying, ZhugeLiang};
+
+duration = [ 2, 5, 2, 1, 3, 1, 3, 4, 5 ];
+on_weekend = [true, true, false, false, true, false, true, false, false ];
+rank = [ 1, 1, 1, 4, 3, 3, 3, 2, 5 ]; 
+
+prec = [| LiuBiao, SimaHui
+        | ShiTao, PangDegong
+        | LiuBiao, HuangChengyan
+        | HuangChengyan, HuangYueying 
+        | CuiZhouping, ZhugeLiang
+        | MengJian, ZhugeLiang
+        | SimaHui, ZhugeLiang
+        | PangDegong, ZhugeLiang
+        | HuangYueying, ZhugeLiang |];
+
+starting_day = 1;

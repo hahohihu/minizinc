@@ -1,0 +1,32 @@
+{
+	"projectFiles": [
+		"models/arrows.mzn",
+		"models/arrows.mzc.mzn",
+		"data/arrowsE_0.dzn",
+		"data/arrowsE_1.dzn",
+		"data/arrowsA_5.dzn",
+		"data/arrowsE_2.dzn",
+		"data/arrowsC_4.dzn",
+		"data/arrowsA_6.dzn",
+		"data/arrowsC_0.dzn",
+		"data/arrowsA_3.dzn",
+		"data/arrowsA_1.dzn",
+		"data/arrowsC_3.dzn",
+		"data/arrowsE_5.dzn",
+		"data/arrowsA_0.dzn",
+		"data/arrowsF_1.dzn",
+		"data/arrowsD_2.dzn",
+		"data/arrowsF_0.dzn",
+		"data/arrowsD_0.dzn",
+		"data/arrowsB_2.dzn",
+		"data/arrowsB_1.dzn",
+		"_mooc"
+	],
+	"openFiles": [
+		"models/arrows.mzn"
+	],
+	"openTab": 0,
+	"version": 106,
+	"selectedBuiltinConfigId": "org.gecode.gecode",
+	"selectedBuiltinConfigVersion": "6.3.0"
+}

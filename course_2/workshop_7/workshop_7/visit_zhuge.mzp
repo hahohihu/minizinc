@@ -1,0 +1,45 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "visit_zhuge.mzn",
+        "data/visit_zhuge_0.dzn",
+        "data/visit_zhuge_1.dzn",
+        "data/visit_zhuge_2.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "data/visit_zhuge_0.dzn",
+        "data/visit_zhuge_1.dzn",
+        "data/visit_zhuge_2.dzn",
+        "visit_zhuge.mzc",
+        "visit_zhuge.mzn"
+    ],
+    "projectSolverConfigs": [
+        {
+            "additionalCompilerCommandline": "",
+            "additionalData": "",
+            "clearOutputWindow": false,
+            "compressSolutionOutput": 100,
+            "defaultBehavior": true,
+            "flatteningStats": false,
+            "freeSearch": false,
+            "id": "org.gecode.gecode",
+            "nThreads": 1,
+            "name": "Project solver configuration",
+            "optimizationLevel": 1,
+            "outputTiming": true,
+            "printIntermediate": false,
+            "runSolutionChecker": true,
+            "solverFlags": "",
+            "solvingStats": false,
+            "stopAfter": 1,
+            "timeLimit": 0,
+            "verboseFlattening": false,
+            "verboseSolving": false,
+            "version": "6.0.1"
+        }
+    ],
+    "selectedProjectConfig": 0,
+    "version": 105
+}

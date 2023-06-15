@@ -1,0 +1,32 @@
+{
+	"projectFiles": [
+		"models/suitor_schedule.mzn",
+		"models/suitor_schedule.mzc.mzn",
+		"data/suitor_scheduleC_2.dzn",
+		"data/suitor_scheduleA_0.dzn",
+		"data/suitor_scheduleA_1.dzn",
+		"data/suitor_scheduleC_3.dzn",
+		"data/suitor_scheduleC_1.dzn",
+		"data/suitor_scheduleA_3.dzn",
+		"data/suitor_scheduleA_2.dzn",
+		"data/suitor_scheduleC_0.dzn",
+		"data/suitor_scheduleC_4.dzn",
+		"data/suitor_scheduleC_5.dzn",
+		"data/suitor_scheduleA_5.dzn",
+		"data/suitor_scheduleA_4.dzn",
+		"data/suitor_scheduleB_1.dzn",
+		"data/suitor_scheduleB_0.dzn",
+		"data/suitor_scheduleB_2.dzn",
+		"data/suitor_scheduleB_3.dzn",
+		"data/suitor_scheduleB_4.dzn",
+		"data/suitor_scheduleB_5.dzn",
+		"_mooc"
+	],
+	"openFiles": [
+		"models/suitor_schedule.mzn"
+	],
+	"openTab": 0,
+	"version": 106,
+	"selectedBuiltinConfigId": "org.gecode.gecode",
+	"selectedBuiltinConfigVersion": "6.3.0"
+}
