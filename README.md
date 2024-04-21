@@ -1,4 +1,4 @@
-My code for https://www.coursera.org/learn/basic-modeling/home/info and https://www.coursera.org/learn/advanced-modeling/home/info.
+My code for https://www.coursera.org/learn/basic-modeling and https://www.coursera.org/learn/advanced-modeling - both of which I highly recommend.
 
 Don't copy these for the course - you won't learn anything if you don't problem solve yourself. I upload them because:
 1. Solutions are already extremely widespread.
